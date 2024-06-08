@@ -14,8 +14,10 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-### Imagen de pruebas del funcionamiento:
+### Imagen de prueba del funcionamiento del programa en IntelliJ:
 
 Imagen:
-![image](https://github.com/VittorBit/Challenge_conversor_Monedas_ONE/assets/157043153/7d80d5f7-17d9-4ecd-bd35-cf0d962858de)
+
+![image](https://github.com/VittorBit/Challenge_conversor_Monedas_ONE/assets/157043153/5c1f3ffb-5fd7-4daa-ac9c-6370455962e6)
+
 
